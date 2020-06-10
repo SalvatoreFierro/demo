@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "nome": "Lithium", "indirizzo": "Via Roma", "descrizione": "Bel posto."},
-    { "nome": "Ruotolo", "indirizzo": "Via Filippo Turati", "descrizione": "cattivo posto." },
-    { "nome": "Lanzillo", "indirizzo": "Via Enrico Berlinguer", "descrizione": "ottimo posto." },
-    { "nome": "Fisio", "indirizzo": "Via Napoli", "descrizione": "decente posto." }
+    { "id" : 1,"userId" : 1,"name": "Lithium", "indirizzo": "Via Roma", "descrizione": "Bel posto."},
+    { "id" : 2,"userId" : 2,"nome": "Ruotolo", "indirizzo": "Via Filippo Turati", "descrizione": "cattivo posto." },
+    { "id" : 3,"userId" : 3,"nome": "Lanzillo", "indirizzo": "Via Enrico Berlinguer", "descrizione": "ottimo posto." },
+    { "id" : 4,"userId" : 4,"nome": "Fisio", "indirizzo": "Via Napoli", "descrizione": "decente posto." }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
