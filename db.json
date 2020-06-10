@@ -1,8 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "nome": "Lithium", "indirizzo": "Via Roma", "descrizione": "Bel posto.", "url": "abba" },
+    { "nome": "Ruotolo", "indirizzo": "Via Filippo Turati", "descrizione": "cattivo posto.", "url": "abbb" },
+    { "nome": "Lanzillo", "indirizzo": "Via Enrico Berlinguer", "descrizione": "ottimo posto.", "url": "abbc" },
+    { "nome": "Fisio", "indirizzo": "Via Napoli", "descrizione": "decente posto.", "url": "abbd" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
